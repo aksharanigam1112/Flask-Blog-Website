@@ -7,13 +7,13 @@ app.config['SECRET_KEY'] = 'a43cdd64687a3224012fe27c3d5e29e6'
 posts = [
     {
         'author':'Akshara',
-        'title':'Blog post 1',
+        'title':'Code with Ease',
         'content':'First Post Content',
         'date_posted':'January 2, 2020'
     },
     {
         'author':'Purvi',
-        'title':'Blog post 2',
+        'title':'GitHub Contribution',
         'content':'Second Post Content',
         'date_posted':'January 12, 2020'
     }
